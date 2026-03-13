@@ -6,11 +6,11 @@ Many people rely on paper grocery lists or basic notes apps, which are easy to l
 ## Wireframes - 
 
 
-<img src="Account.png" alt="Sign-up Page" width="450">
+<img src="/Resources/Images/Account.png" alt="Sign-up Page" width="450">
 
-<img src="Household.png" alt="Household Page" width="450">
+<img src="/Resources/Images/Household.png" alt="Household Page" width="450">
 
-<img src="List.png" alt="Grocery List" width="450">
+<img src="/Resources/Images/List.png" alt="Grocery List" width="450">
 
 
 ## Project Timeline - 
